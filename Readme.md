@@ -1,3 +1,19 @@
+
+
+
+
+B
+B
+Bi
+B
+A
+A
+A
+A
+B
+B
+B
+B
 A
 B
 
@@ -11,4 +27,7 @@ Não estou tendo muitas dificuldades até o momento, pois todo o conteúdo que j
 Ainda sim, é nítido perceber a didática absurda que os professores tem, por mais que eles estejam explicando um conteúdo de forma superficial, já que o esperado é que os alunos tenham um conhecimento prévio
 
 
-Adicionando um linha.
+Adicionando um linha
+Bi'
+
+.
