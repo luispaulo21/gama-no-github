@@ -1,3 +1,6 @@
+A
+B
+
 #### Esse é um repositório de prática para o módulo de Git, do treinamento da Gama Academy.
 
 ## O que eu estou achando do curso?
